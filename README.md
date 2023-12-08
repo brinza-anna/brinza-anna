@@ -5,7 +5,7 @@
 
 - 🌱 currently learning **automated testing in JavaScript & React**
 
-- 👨‍💻 You can visit my **QA-portfolio** at [brinza-anna.github.io/QA-portfolio](brinza-anna.github.io/QA-portfolio) and Frontend-portfolio at [brinza-anna.github.io/Frontend-Portfolio](brinza-anna.github.io/Frontend-Portfolio)
+- 👨‍💻 You can visit my **QA-portfolio** at [brinza-anna.github.io/QA-portfolio](brinza-anna.github.io/QA-portfolio/) <a href="https://linkedin.com/in/brinza-anna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohithgupta" height="30" width="40" /></a>and Frontend-portfolio at <a href="https://linkedin.com/in/brinza-anna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohithgupta" height="30" width="40" /></a> [brinza-anna.github.io/Frontend-Portfolio](brinza-anna.github.io/Frontend-Portfolio/)
 
 - 💬 Ask me about **manual testing of web and mobile applications as well as frontend layout**
 
