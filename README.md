@@ -5,7 +5,7 @@
 
 - 🌱 currently learning **automated testing in JavaScript & React**
 
-- 👨‍💻 You can visit my portfolio at [https://brinza.anna1.github.io](https://brinza.anna1.github.io)
+- 👨‍💻 You can visit my **QA-portfolio** at [brinza-anna.github.io/QA-portfolio](brinza-anna.github.io/QA-portfolio) and Frontend-portfolio at [brinza-anna.github.io/Frontend-Portfolio](brinza-anna.github.io/Frontend-Portfolio)
 
 - 💬 Ask me about **manual testing of web and mobile applications as well as frontend layout**
 
